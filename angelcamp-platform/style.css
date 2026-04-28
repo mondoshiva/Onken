@@ -1,0 +1,16 @@
+/*
+Theme Name: AngelCamp Platform Theme
+Theme URI: https://example.com/
+Author: Onken Tours / AngelCamp Platform
+Author URI: https://example.com/
+Description: A fast, SEO-friendly WordPress block theme for fishing camp management software, booking platforms, boat rental operations and camp dashboards.
+Version: 1.0.0
+Requires at least: 6.6
+Tested up to: 6.8
+Requires PHP: 8.1
+License: GPL-2.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: angelcamp-platform
+*/
+
+/* Main styling is loaded from assets/css/theme.css */
